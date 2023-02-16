@@ -43,7 +43,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p align="center">
-<img src="https://i.imgur.com/aB6mU5j.png" height="80%" width="80%" alt="Azure Free Account"/>	
+<img src="https://i.imgur.com/aB6mU5j.png" height="70%" width="70%" alt="Azure Free Account"/>	
 
 
 <h3>Step 2: Configure Roles </h3>
@@ -56,20 +56,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Select Add Role
 	
 <p align="center">
-<img src="https://i.imgur.com/9tiOON2.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/CfCzRRk.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/9E9nvmQ.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
 <h3>Step 3: Configure Departments</h3>
 
-- Make sure you are in admin panel (check top right to see which panel you are in)
+- Again, Make sure you are in admin panel
 - Select the Agents tab -> Departments -> Add New Department 
-	- Name: System Administrators
-- Select Create Dept. 
+- Select Create Department
+- In this scenario we are going to use the department name "System Admins".
 
 
 <p align="center">
-<img src="https://i.imgur.com/f2uEloL.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/X2dXwjY.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/XX79klM.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
