@@ -31,19 +31,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 	- [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
 	- [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html) 
 	- [Agents](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
-	- [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html).
+	- [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
 	- [Service Level Agreement(SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 	
    
 
 <h2>Installation Steps</h2>
 
-<h3>Step 1: Open osTicket and log in using credentials from installation tutorial </h3>
+<h3>Step 1: Open osTicket and login with your credentials from the previous section. </h3>
 
 
 
 <p align="center">
-<img src="https://i.imgur.com/gAXVBO2.png" height="80%" width="80%" alt="Azure Free Account"/>	
+<img src="https://i.imgur.com/aB6mU5j.png" height="80%" width="80%" alt="Azure Free Account"/>	
 
 
 <h3>Step 2: Configure Roles </h3>
